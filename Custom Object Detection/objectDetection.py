@@ -1,6 +1,6 @@
 import cv2
 ################################################################
-path = 'C:\\Users\Kent\OneDrive\Documents\Visual Studio\OpenCV-Python-Tutorials-and-Projects\Intermediate\Custom Object Detection\haarcascades\haarcascade_potato.xml'  # PATH OF THE CASCADE
+path = 'C:\Users\Kent\OneDrive\Documents\Visual Studio\carabaoMangoGrader\Custom Object Detection\haarcascades\haarcascade_potato.xml'  # PATH OF THE CASCADE
 cameraNo = 0                      # CAMERA NUMBER
 objectName = 'potato'       # OBJECT NAME TO DISPLAY
 frameWidth= 640                     # DISPLAY WIDTH
